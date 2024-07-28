@@ -92,7 +92,7 @@ GetKey.MouseButton1Click:Connect(function()
 end)
 
 local function validateKey(key)
-    return key == "XL_XY_123456"
+    return key == "XL_1145140008"
 end
 
 CheckKey.MouseButton1Click:Connect(function()
